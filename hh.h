@@ -8,6 +8,7 @@
 
 class hh {
 int a=22;
+int b=33;
 };
 
 
